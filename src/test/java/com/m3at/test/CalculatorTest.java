@@ -21,7 +21,7 @@ public class CalculatorTest {
 
     @Test
     public void testSumZero() throws Exception {
-        assertEquals(1, calculator.sum(0, 0));
+        assertEquals(0, calculator.sum(0, 0));
     }
 
     @Test
