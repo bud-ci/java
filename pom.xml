@@ -15,7 +15,7 @@
             <version>4.12</version>
         </dependency>
     </dependencies>
-    <pluginManagment>
+    <pluginManagement>
          <plugin>
                   <groupId>org.apache.maven.plugins</groupId>
                   <artifactId>maven-compiler-plugin</artifactId>
@@ -25,6 +25,6 @@
                           <target>1.7</target>
                   </configuration>
          </plugin>
-    </pluginManagment>
+    </pluginManagement>
 
 </project>
